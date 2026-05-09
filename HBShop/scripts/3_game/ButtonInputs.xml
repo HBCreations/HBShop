@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="ButtonPu" loc="随身商店" />
+            <input name="ButtonVIP" loc="随身商店[VIP]" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="ButtonPu">
+            <btn name="kLMenu">
+                <btn name="k1" />
+            </btn>
+        </input>
+        <input name="ButtonVIP">
+            <btn name="kLMenu">
+                <btn name="k2" />
+            </btn>
+        </input>
+    </preset>
+</modded_inputs>
